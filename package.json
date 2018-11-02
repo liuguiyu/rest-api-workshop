@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=3000 node src/index.js",
-    "start-watch": "PORT=3000 nodemon src/index.js",
+    "start": "node src/server.js",
+    "start-watch": "nodemon src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,8 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
-    "mongoose": "^5.0.11"
+    "express": "^4.16.4",
+    "mobx": "^4.2.0",
+    "mongoose": "^5.0.11",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "redoc": "^2.0.0-alpha.40",
+    "styled-components": "^3.4.0",
+    "swagger-jsdoc": "^1.10.3"
   },
   "devDependencies": {
     "nodemon": "^1.17.2"
