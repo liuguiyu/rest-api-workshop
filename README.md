@@ -1,6 +1,6 @@
 API workshop seed project  
 
-## Main technologies used: 
+# Main technologies used: 
 
 #### [Node.js](https://nodejs.org/)  Javascript Framework 
 #### [MongoDB](https://www.mongodb.org/) NoSQL Database 
