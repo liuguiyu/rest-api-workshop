@@ -1,4 +1,10 @@
-More details to follow.
+API workshop seed project  
+
+## Main technologies used: 
+
+#### [Node.js](https://nodejs.org/)
+#### [MongoDB](https://www.mongodb.org/) NoSQL Database 
+#### [Express](http://expressjs.com/) Node.js framework
 
 # Links
 [Workshop Slides](http://bit.ly/2G6ymLt)
